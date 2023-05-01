@@ -3,4 +3,4 @@ title: Accueil
 ---
 # L'Échappée Belle
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Bienvenue sur le site de **Stanislas**, **Anne-Sophie**, **Samuel** et **Émilie**.
